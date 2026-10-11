@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "fcgiproto",
+  "versions": [
+    {
+      "commit": "6dd4cc23661d84a4aaf9aa208202a44710ff60a5",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:36:51.740384+00:00"
+    }
+  ]
+}
