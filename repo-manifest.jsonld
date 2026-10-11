@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/fcgiproto/commit/6dd4cc23661d84a4aaf9aa208202a44710ff60a5",
       "git:hexsha": "6dd4cc23661d84a4aaf9aa208202a44710ff60a5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T20:36:51.739897+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/fcgiproto/commit/ddc8ceaa33f1014f1ffa14e305d77b299fb248ee",
